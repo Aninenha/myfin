@@ -1,0 +1,2 @@
+# myfin
+Finances track helper
