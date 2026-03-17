@@ -1,0 +1,6 @@
+endpoints
+
+POST /auth/register
+POST /auth/login
+
+recebe dto, chama service, retorna resposta

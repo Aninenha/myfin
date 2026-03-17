@@ -1,0 +1,5 @@
+dtos necessarios
+
+RegisterRequest - dados de cadastro
+LoginRequest - email/senha
+AuthResponse - retorno com token
